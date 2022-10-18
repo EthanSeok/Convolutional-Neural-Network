@@ -11,6 +11,9 @@ from werkzeug.utils import secure_filename
 
 from PIL import Image
 
+
+# pull-requests 테스트 주석입니다.
+
 # from dynamikontrol import Module
 # module = Module()
 
