@@ -54,7 +54,7 @@
 * “Faster R-CNN은 Fast R-CNN의 selective search(heuristic region proposal)을 region proposal net- work (RPN)으로 대체했으며 end-to-end 훈련이 가능했다.”
 
 
-<img src='https://user-images.githubusercontent.com/93086581/211189939-c78ac516-e01d-4f53-87d8-057f7110b4d1.jpg'>
+<img src='https://user-images.githubusercontent.com/93086581/211189939-c78ac516-e01d-4f53-87d8-057f7110b4d1.jpg'  width="1000">
 
 
 
