@@ -15,16 +15,14 @@
 * 직접 구득한 이미지 데이터 활용
 * ResNet50 FPN 모델 적용
 * 과일의 객체 인식(Detection)
-* Labelme를 이용한 클래스 어노테이션 - https://github.com/wkentaro/labelme
+* Labelme를 이용한 클래스 어노테이션 진행 후 학습 - https://github.com/wkentaro/labelme
 
 ### Why CNN (Convolutional Neural Network)
 * 기존의 컴퓨터 비전(CV)의 경우현장 과일 탐지 작업에서 과일이나 단풍 색상, 조명, 카메라 시야각 및 카메라의 변화와 같은 교정 조건에 대한 일련의 조건 밖에서 사용할 때 재설계가 필요했다.
 
 
 * “머신러닝을 기반으로 한 방법은 초기 이미지 처리 기술보다 더 나은 결과를 산출하지만, 더 많은 계산 자원과 훈련을 위해 더 많은 라벨이 지정된 데이터가 필요하다.”
-
-
-* “최근 몇 년 동안 고성능 GPU를 사용할 수 있게 되었고, 자유롭게 사용할 수 있는 그래픽 라벨링 툴(ex; labelme)의 출현으로 이미지에서 객체를 라벨링하는 작업이 더 쉬워졌다.”
+“최근 몇 년 동안 고성능 GPU를 사용할 수 있게 되었고, 자유롭게 사용할 수 있는 그래픽 라벨링 툴(ex; labelme)의 출현으로 이미지에서 객체를 라벨링하는 작업이 더 쉬워졌다.”
 
 
 * “Faster Regional Convolutional Neural Network (Faster R-CNN), Single Shot multibox Detector (SSD), You Only Look Once (YOLO) 와 같은 많은 최첨단 딥 러닝 프레임워크로 이어졌다.”
