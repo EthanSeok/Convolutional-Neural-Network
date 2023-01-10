@@ -1,5 +1,3 @@
-### check cocoeval.py!
-
 ### cocoeval.py에 mAP 출력 코드 추가
 
 '''
