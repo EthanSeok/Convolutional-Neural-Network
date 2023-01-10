@@ -22,7 +22,9 @@
 
 
 * “머신러닝을 기반으로 한 방법은 초기 이미지 처리 기술보다 더 나은 결과를 산출하지만, 더 많은 계산 자원과 훈련을 위해 더 많은 라벨이 지정된 데이터가 필요하다.”
-“최근 몇 년 동안 고성능 GPU를 사용할 수 있게 되었고, 자유롭게 사용할 수 있는 그래픽 라벨링 툴(ex; labelme)의 출현으로 이미지에서 객체를 라벨링하는 작업이 더 쉬워졌다.”
+
+
+* “최근 몇 년 동안 고성능 GPU를 사용할 수 있게 되었고, 자유롭게 사용할 수 있는 그래픽 라벨링 툴(ex; labelme)의 출현으로 이미지에서 객체를 라벨링하는 작업이 더 쉬워졌다.”
 
 
 * “Faster Regional Convolutional Neural Network (Faster R-CNN), Single Shot multibox Detector (SSD), You Only Look Once (YOLO) 와 같은 많은 최첨단 딥 러닝 프레임워크로 이어졌다.”
