@@ -16,7 +16,6 @@
 * ResNet50 FPN 모델 적용
 * 과일의 객체 인식(Detection)
 * Labelme를 이용한 클래스 어노테이션 - https://github.com/wkentaro/labelme
-* RoboFlow를 통해 josn 파일을 txt 파일로 변경 후 학습
 
 ### Why CNN (Convolutional Neural Network)
 * 기존의 컴퓨터 비전(CV)의 경우현장 과일 탐지 작업에서 과일이나 단풍 색상, 조명, 카메라 시야각 및 카메라의 변화와 같은 교정 조건에 대한 일련의 조건 밖에서 사용할 때 재설계가 필요했다.
