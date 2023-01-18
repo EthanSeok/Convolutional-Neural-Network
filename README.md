@@ -1,5 +1,9 @@
 # Neural-Network for vision
 
+### 딥러닝 논문 리뷰
+* https://docs.google.com/presentation/d/1CT5-f7GyvARWMjpn3UQABDwPGjEFK_1_50eHGObPUto/edit#slide=id.p
+
+
 ### 개요
 * CNN과 Faster R-CNN에 대한 전반적인 공부와 실습
 * 농업용 이미지 데이터를 활용하여 Neural-Network를 학습
